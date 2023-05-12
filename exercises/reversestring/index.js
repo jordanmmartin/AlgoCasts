@@ -23,7 +23,10 @@
 
 // Solution 3
 function reverse(str) {
+    debugger;
     return str.split('').reduce((revStr, char) => char + revStr, '');
  }
+
+ reverse('abcde')
 
 module.exports = reverse;
