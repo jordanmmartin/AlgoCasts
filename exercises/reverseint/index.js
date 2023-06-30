@@ -17,4 +17,8 @@ function reverseInt(n) {
     return revInt;
 }
 
+// Solution #1
+// function reverseInt(n) {
+// }
+
 module.exports = reverseInt;
