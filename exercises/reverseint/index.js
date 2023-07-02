@@ -25,4 +25,8 @@ function reverseInt(n) {
 // function reverseInt(n) {
 // }
 
+// Solution #3
+// function reverseInt(n) {
+// }
+
 module.exports = reverseInt;
